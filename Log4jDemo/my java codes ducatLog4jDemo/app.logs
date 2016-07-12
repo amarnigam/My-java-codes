@@ -1,0 +1,56 @@
+2016-07-05 20:27:57 DEBUG LoginView:11 - Inside main
+2016-07-05 20:28:17 DEBUG LoginView:18 - Check Login method
+2016-07-05 20:28:17 DEBUG LoginDAO:9 - Login DAO class
+2016-07-05 20:28:17 ERROR LoginView:26 - java.lang.ArithmeticException: / by zero
+2016-07-05 20:30:39 DEBUG LoginView:13 - Inside main
+2016-07-05 20:30:49 DEBUG LoginView:20 - Check Login method
+2016-07-05 20:30:49 DEBUG LoginDAO:9 - Login DAO class
+2016-07-05 20:30:49 ERROR LoginView:31 - java.lang.ArithmeticException: / by zero
+	at LoginView.main(LoginView.java:24)
+
+2016-07-05 20:33:24 ERROR LoginView:31 - java.lang.ArithmeticException: / by zero
+	at LoginView.main(LoginView.java:24)
+
+2016-07-05 20:37:59 DEBUG LoginView:13 - Inside main
+2016-07-05 20:38:05 DEBUG LoginView:20 - Check Login method
+2016-07-05 20:38:05 ERROR LoginView:31 - java.lang.ArithmeticException: / by zero
+	at LoginView.main(LoginView.java:24)
+
+2016-07-05 20:38:41 ERROR LoginView:31 - java.lang.ArithmeticException: / by zero
+	at LoginView.main(LoginView.java:24)
+
+2016-07-05 20:39:33 DEBUG LoginView:13 - Inside main
+2016-07-05 20:39:38 DEBUG LoginView:20 - Check Login method
+2016-07-05 20:39:38 ERROR LoginView:31 - java.lang.ArithmeticException: / by zero
+	at LoginView.main(LoginView.java:24)
+
+2016-07-05 20:40:30 DEBUG LoginView:13 - Inside main
+2016-07-05 20:40:37 DEBUG LoginView:20 - Check Login method
+2016-07-05 20:40:37 ERROR LoginView:31 - java.lang.ArithmeticException: / by zero
+	at LoginView.main(LoginView.java:24)
+
+2016-07-05 20:42:03 DEBUG LoginView:13 - Inside main
+2016-07-05 20:42:07 DEBUG LoginView:20 - Check Login method
+2016-07-05 20:42:07 ERROR LoginView:31 - java.lang.ArithmeticException: / by zero
+2016-07-05 20:43:10 DEBUG LoginView:13 - Inside main
+2016-07-05 20:43:14 DEBUG LoginView:20 - Check Login method
+2016-07-05 20:43:14 DEBUG LoginDAO:9 - Login DAO class
+2016-07-05 20:43:14 ERROR LoginView:31 - java.lang.ArithmeticException: / by zero
+2016-07-05 20:44:33 DEBUG LoginView:13 - Inside main
+2016-07-05 20:44:39 DEBUG LoginView:20 - Check Login method
+2016-07-05 20:44:39 DEBUG LoginDAO:9 - Login DAO class
+2016-07-05 20:44:39 ERROR LoginView:31 - java.lang.ArithmeticException: / by zero
+	at LoginView.main(LoginView.java:24)
+
+2016-07-05 20:44:46 DEBUG LoginView:13 - Inside main
+2016-07-05 20:44:51 DEBUG LoginView:20 - Check Login method
+2016-07-05 20:44:51 DEBUG LoginDAO:9 - Login DAO class
+2016-07-05 20:46:03 DEBUG LoginView:13 - Inside main
+2016-07-05 20:46:07 DEBUG LoginView:20 - Check Login method
+2016-07-05 20:46:07 DEBUG LoginDAO:9 - Login DAO class
+2016-07-05 20:46:07 ERROR LoginView:31 - java.lang.ArithmeticException: / by zero
+	at LoginView.main(LoginView.java:24)
+
+2016-07-05 20:52:32 ERROR LoginView:31 - java.lang.ArithmeticException: / by zero
+	at LoginView.main(LoginView.java:24)
+
